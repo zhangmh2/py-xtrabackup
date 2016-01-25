@@ -1,2 +1,2 @@
-# py-xtrabackup
-xtrabackup for python
+# xtrabackup
+Collection of xtrabackup scripts
